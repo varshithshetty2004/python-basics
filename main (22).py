@@ -17,4 +17,5 @@ def abc4(a,b):
 abc1()
 abc2(20,40)
 abc3()
-res=abc4()
+res=abc4(5,6)
+print(res)
